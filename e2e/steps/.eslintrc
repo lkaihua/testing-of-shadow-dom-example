@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "import/no-extraneous-dependencies": true,
+    "prefer-arrow-callback": 0
+  }
+}

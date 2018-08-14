@@ -3,8 +3,6 @@
   "version": "0.0.2",
   "description": "Minimum install to run remote integration test",
   "dependencies": {
-    "bower-art-resolver": "^2.0.6",
-    "cbportal-integration-test-common": "^0.1.0",
     "chai": "^4.1.2",
     "chai-string": "^v1.4.0",
     "cucumber": "^3.0.4",
